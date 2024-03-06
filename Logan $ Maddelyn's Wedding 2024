@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logan & Maddelyn's Wedding</title>
+    <style>
+        /* Add your custom styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 2px solid #ccc;
+        }
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+        p {
+            font-size: 18px;
+        }
+        section {
+            padding: 40px;
+            background-color: #fff;
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 24px;
+            margin-top: 0;
+        }
+        .wedding-details {
+            background-color: #f5f5f5;
+            border-radius: 10px;
+            padding: 20px;
+        }
+        .registry-list {
+            list-style: none;
+            padding: 0;
+        }
+        .registry-item {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Logan & Maddelyn's Wedding</h1>
+    </header>
+
+    <!-- Introduction Section -->
+    <section id="introduction">
+        <div class="container">
+            <h2 class="section-title">Welcome!</h2>
+            <p>Dear friends and family,</p>
+            <p>We are delighted to announce our upcoming wedding on July 13th, 2024! We are thrilled to share this special moment with you. Please join us as we celebrate our union in a joyous ceremony filled with love, laughter, and happiness.</p>
+        </div>
+    </section>
+
+    <!-- Wedding Details Section -->
+    <section id="details">
+        <div class="container">
+            <h2 class="section-title">Wedding Details</h2>
+            <div class="wedding-details">
+                <p><strong>Date:</strong> July 13th, 2024</p>
+                <p><strong>Location:</strong> Our Lady Of The Assumption Catholic Church, Italian Canadian Cultural Centre - Catering & Events</p>
+                <p><strong>Theme:</strong> *TBA*</p>
+                <p><strong>Colors:</strong>Deep wine red, *TBA*</p>
+                <p><strong>Menu:</strong> Our menu will feature a delightful selection of gourmet dishes from the Italian Canadian CLub, including: Penne Marinara, Classic Ceasar Salad, Roman Style Meatballs, Green Beans with Roased Red Pepper and Garlic, Mashed Potatoes, followed by a delicous dessert of Ice Cream and fresh berries. All inspired by the enchanting atmosphere of our venue, buffet style.</p>
+                <p><strong>Expectations:</strong> We kindly request that all guests arrive on time and dress in semi-formal attire. The ceromony starts at 2:00pm at Our Lady Of The Assumption Catholic Church. </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- RSVP Section -->
+    <section id="rsvp">
+        <div class="container">
+            <h2 class="section-title">RSVP</h2>
+            <p>We are excited to celebrate our special day with you! Please RSVP by July 16, 2024, by sending an email to <a href="mailto:mackrsvp2024@gmail.com">mackrsvp2024@gmail.com</a>. Please include your name and the number of guests attending.</p>
+        </div>
+    </section>
+
+    <!-- Wedding Registry Section -->
+    <section id="registry">
+        <div class="container">
+            <h2 class="section-title">Wedding Registry</h2>
+            <p>While your presence at our wedding is the greatest gift of all, if you wish to honor us with a gift, please consider selecting something from our registry. Your generous contributions will help us start our new life together. Thank you so much for your love and support! Each and every gift will mean the world, but cash and gift cards are always appreciated.</p>
+            <ul class="registry-list">
+                <li class="registry-item">Kitchen Silverware Set</li>
+                <li class="registry-item">Cuisinart Knife Set</li>
+                <li class="registry-item">Bathroom and Kitchen Towel Set</li>
+                <li class="registry-item">Bed Set</li>
+                <li class="registry-item">Pillows, soft and supportive!</li>
+                <li class="registry-item">Blender</li>
+                <li class="registry-item">More TBA, me and Maddelyn are starting our lives together. Everything and Anything is most welcome, and will be deeply appreciated.</li>
+                <!-- Add more registry items as needed -->
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Logan Mack. All rights reserved.</p>
+    </footer>
+</body>
+</html>
